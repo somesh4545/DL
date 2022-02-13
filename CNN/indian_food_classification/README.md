@@ -1,4 +1,4 @@
-Indian Food Classification Model
+# Indian Food Classification Model
 
 This is a CNN model to classify food images.
 
